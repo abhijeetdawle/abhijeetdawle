@@ -100,5 +100,7 @@ I also contribute to student mentoring, curriculum development, academic activit
 I welcome academic collaborations, research discussions, interdisciplinary projects, and scholarly collaborations.
 
 Dr. Abhijeet Dawle
+
 Assistant Professor
+
 SVKM’s NMIMS – MPSTME, Shirpur
