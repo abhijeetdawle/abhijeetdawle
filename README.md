@@ -13,7 +13,7 @@ My academic and research interests span English Language and Literature, Communi
 I am passionate about teaching, research, academic writing, mentoring students, and developing innovative approaches to engineering education.
 
 
-<img width="2343" height="2340" alt="68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" src="https://github.com/user-attachments/assets/521aa30e-09bc-48ce-84d7-652ad0978778" />
+<img width="1343" height="1340" alt="68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" src="https://github.com/user-attachments/assets/521aa30e-09bc-48ce-84d7-652ad0978778" />
 
 
 🎓 Academic Qualifications
