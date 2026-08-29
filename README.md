@@ -142,60 +142,8 @@ A Study of Employees in the IT Sector in Pune and Mumbai
 
 My ongoing doctoral research in Management examines the evolution of HR practices in the context of Industry 5.0, focusing on human-centric technologies, sustainability, employee well-being, collaboration, employee experience and emerging workplace models.
 
-Research Focus
-                         ARTIFICIAL
-                         INTELLIGENCE
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │ INDUSTRY 5.0│
-                       └──────┬──────┘
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │ HUMAN-CENTRIC HR │
-                    └────────┬─────────┘
-                             │
-             ┌───────────────┼───────────────┐
-             ▼               ▼               ▼
-       EMPLOYEE         SUSTAINABILITY    COLLABORATION
-       EXPERIENCE
-             │               │               │
-             └───────────────┼───────────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │ FUTURE OF WORK  │
-                    └─────────────────┘
-🧩 INTERDISCIPLINARY RESEARCH
 
-<div align="center">
 
-📖 LANGUAGE	📚 LITERATURE	💬 COMMUNICATION
-English	Comparative Literature	Professional Skills
-Language Studies	African Women's Writing	Technical Communication
-Literary Studies	Gender Studies	Academic Writing
-
-<br>
-
-⬇️
-
-<br>
-
-👥 PEOPLE	🤖 TECHNOLOGY	🎓 EDUCATION
-HR Management	Artificial Intelligence	Higher Education
-Employee Experience	Industry 5.0	Engineering Education
-Future of Work	Human-Centric Technology	Technology-Enabled Learning
-
-</div>
-
-<br>
-
-<div align="center">
-
-LANGUAGE + LITERATURE + PEOPLE + TECHNOLOGY + EDUCATION
-= INTERDISCIPLINARY INNOVATION
-
-</div>
 
 🎯 RESEARCH INTERESTS
 
