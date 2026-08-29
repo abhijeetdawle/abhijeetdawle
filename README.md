@@ -12,7 +12,7 @@ SVKM's NMIMS · Mukesh Patel School of Technology Management & Engineering · Sh
 
 <br>
 
-<a href="YOUR-LINKEDIN-URL"> <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="YOUR-GOOGLE-SCHOLAR-URL"> <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/> </a> &nbsp; <a href="YOUR-ORCID-URL"> <img src="https://img.shields.io/badge/ORCID-Academic%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/> </a> &nbsp; <a href="YOUR-RESEARCHGATE-URL"> <img src="https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/> </a>
+<a href="YOUR-LINKEDIN-[URL](https://www.linkedin.com/in/dr-abhijeet-dawle-13622464?originalSubdomain=in)"> <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="YOUR-GOOGLE-SCHOLAR-URL"> <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/> </a> &nbsp; <a href="YOUR-ORCID-URL"> <img src="https://img.shields.io/badge/ORCID-Academic%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/> </a> &nbsp; <a href="YOUR-RESEARCHGATE-URL"> <img src="https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/> </a>
 
 </div>
 
